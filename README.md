@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/github/followers/mthoriqmust-itg?style=for-the-badge&logo=github&color=151B35&labelColor=080B16" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/mthoriqmust-itg?style=for-the-badge&logo=github&color=151B35&labelColor=080B16" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?mthoriqmust-itg=mthoriqmust-itg&style=for-the-badge&color=34245C&labelColor=080B16&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Profile Views"/>
 </p>
 
 <p><i>「 Rasa ingin tahu adalah bahan bakar saya. Keamanan adalah passion saya. Kode adalah bahasa saya. 」</i></p>
