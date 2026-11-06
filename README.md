@@ -11,9 +11,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=151B35&labelColor=080B16" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&color=151B35&labelColor=080B16" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=34245C&labelColor=080B16&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mthoriqmust-itg?style=for-the-badge&logo=github&color=151B35&labelColor=080B16" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mthoriqmust-itg?style=for-the-badge&logo=github&color=151B35&labelColor=080B16" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?mthoriqmust-itg=mthoriqmust-itg&style=for-the-badge&color=34245C&labelColor=080B16&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p><i>「 Rasa ingin tahu adalah bahan bakar saya. Keamanan adalah passion saya. Kode adalah bahasa saya. 」</i></p>
@@ -171,12 +171,12 @@ Saya percaya keamanan siber dibangun lewat kolaborasi. Beberapa laporan kerentan
 <div align="center">
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?mthoriqmust-itg=mthoriqmust-itg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?mthoriqmust-itg=mthoriqmust-itg&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages"/>
 </p>
 
 <p>
-  <img width="70%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=080B16&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="Streak Stats"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=mthoriqmust-itg&theme=tokyonight&hide_border=true&background=080B16&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="Streak Stats"/>
 </p>
 
 </div>
@@ -187,7 +187,7 @@ Saya percaya keamanan siber dibangun lewat kolaborasi. Beberapa laporan kerentan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/mthoriqmust-itg/mthoriqmust-itg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
