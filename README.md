@@ -187,7 +187,7 @@ Saya percaya keamanan siber dibangun lewat kolaborasi. Beberapa laporan kerentan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mthoriqmust-itg/mthoriqmust-itg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="[https://raw.githubusercontent.com/mthoriqmust-itg/mthoriqmust-itg/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
